@@ -14,7 +14,7 @@ setup(
     description="Pacote teste do Bootcamp Python Developer",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="my_github_repository_project_link",
+    url="github.com/luislrda28/pacote_simples_curso_DIO",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',

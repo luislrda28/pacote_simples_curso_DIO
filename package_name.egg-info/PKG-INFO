@@ -1,0 +1,34 @@
+Metadata-Version: 2.4
+Name: package_name
+Version: 0.0.1
+Summary: Pacote teste do Bootcamp Python Developer
+Home-page: github.com/luislrda28/pacote_simples_curso_DIO
+Author: Luís Otávio Rodrigues da Silva
+Author-email: luisotaviorsilva@hotmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-python
+Dynamic: summary
+
+# pacote_simples
+
+Description.
+The package pacote_simples is used to:
+    package_name:
+        file1_name
+            - Template course DIO 
+        file2_name
+            - Template course DIO
+
+## Installation
+```bash
+pip install package_name
+```
+
+## Author
+LuÃ­s OtÃ¡vio Rodrigues da Silva
